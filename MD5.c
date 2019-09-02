@@ -99,3 +99,12 @@ int main() {
 
 	return 0;
 }
+
+/*
+ * Referensi:
+ * http://www.herongyang.com/Cryptography/MD5-Message-Digest-Algorithm-Overview.html
+ * https://en.wikipedia.org/wiki/MD5
+ * https://fthb321.github.io/MD5-Hash/MD5OurVersion2.html
+ * http://www.miraclesalad.com/webtools/md5.php
+ * https://gist.github.com/creationix/4710780
+ */
